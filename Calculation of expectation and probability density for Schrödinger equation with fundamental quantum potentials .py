@@ -4,7 +4,7 @@
 # In[20]:
 
 
-### import numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import hermite, factorial
 
